@@ -1,16 +1,22 @@
-## Hi there 👋
+👋 Hi there, I’m Hul Makara (MEAK)
 
-<!--
-**Hul-Makara/Hul-Makara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Management Information Systems (MIS) student at SETEC Institute
+💻 Former Frontend Developer & Graphic Designer at SETEC
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m passionate about learning, building, and sharing.
+I enjoy exploring new technologies, teaching others what I learn, and creating cool, useful things through tech and design.
+
+🛠️ Skills & Interests
+Frontend Development: HTML, CSS, JavaScript
+Design: Graphic Design, UI/UX basics
+IT & MIS: Systems thinking, databases, business + tech
+Tools: Git, GitHub, VS Code, Adobe tools
+
+📫 Let’s Connect
+
+💼 GitHub: You’re already here 😉
+📚 Always open to learning, collaboration, and new ideas
+
+⭐ “Keep learning. Keep building. Keep sharing.”
