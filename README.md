@@ -33,7 +33,7 @@ I’m a **Management Information Systems (MIS)** student at **SETEC Institute** 
 
 ---
 
-### 📊 GitHub Stats
+<!-- ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hul-Makara&show_icons=true&theme=radical" alt="Hul-Makara's GitHub stats" />
@@ -42,7 +42,7 @@ I’m a **Management Information Systems (MIS)** student at **SETEC Institute** 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hul-Makara&theme=radical" alt="GitHub Streak" />
-</p>
+</p> -->
 
 ---
 
